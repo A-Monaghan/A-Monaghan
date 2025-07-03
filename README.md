@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🌱 I am exploring the intersection of machine learning, from model building to RAG implementations.
+
+- 🔭 Leveraging my background in the music industry and love of tech to approach data and ML problems with a creative perspective.
+
+
+
 <!--
 **A-Monaghan/A-Monaghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
