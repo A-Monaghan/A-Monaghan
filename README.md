@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-- 🌱 I am exploring the intersection of machine learning, from model building to RAG implementations.
+- 🌱 I am designing and building toolkits and agentic workflows for teams. 
 
-- 🔭 Leveraging my background in the music industry and love of tech to approach data and ML problems with a creative perspective.
-
+- 🔭 Leveraging my background in the music industry and love of tech to approach modern reserach and data problems from a creative perspective.
 
 
 <!--
